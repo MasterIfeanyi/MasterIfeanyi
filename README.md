@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **MasterIfeanyi/MasterIfeanyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,11 +17,17 @@ Here are some ideas to get you started:
 
 
 
-### my name is Ifeanyi
-#### Software Engineer
+## my name is Ifeanyi 🐼
+### Software Engineer
 I am Chima Ifeanyi, I am from Imo state, Nigeria.
 
-Skills: REACT / JS / HTML / CSS
+## Skills and Experiences
+### 💻 Technologies
+React
+JavaScript
+PHP 
+HTML
+CSS
 
 - 🌱 I’m currently learning different programming languages to increase my skills pool 
 - 🤔 I’m  looking for a job 
