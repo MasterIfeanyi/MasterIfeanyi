@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-## my name is Ifeanyi 🐼
+## Introduction
 
 I am Chima Ifeanyi, I am from Imo state, Nigeria.
 I am a software engineer.
@@ -29,6 +29,8 @@ JavaScript
 PHP 
 HTML
 CSS
+
+## Currently
 
 - 🌱 I’m currently learning different programming languages to increase my skills pool 
 - 🤔 I’m  looking for a job 
