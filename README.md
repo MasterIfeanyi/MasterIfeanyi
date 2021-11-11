@@ -24,10 +24,10 @@ I am a software engineer.
 
 ## Skills and Experiences
 #### 💻 Technologies
-React
-JavaScript
-PHP 
-HTML
+React,
+JavaScript,
+PHP,
+HTML,
 CSS
 
 ## Hooby Projects
