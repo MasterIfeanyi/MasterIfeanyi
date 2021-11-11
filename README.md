@@ -14,19 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Chima Ifeanyi from Imo state, Nigeria. I am a software engineer.
-You can check out my linkedin at https://www.linkedin.com/in/ifeanyi-thankgod-chima/
+
 
 
 ### Hi there 👋, my name is Ifeanyi
 #### Software Engineer
-I am extremely intelligent, I graduated university at 20.
+I am Chima Ifeanyi, I am from Imo state, Nigeria.
 
 Skills: REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning I am learning different programming languages to increase my skills pool 
-- 🤔 I’m looking for help with I am looking for a jjob 
+- 🤔 I’m looking for help with I am looking for a job 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MasterIfeanyi)](https://github.com/anuraghazra/github-readme-stats)
 
