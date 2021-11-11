@@ -30,6 +30,11 @@ PHP
 HTML
 CSS
 
+##Hooby Projects
+### These projects were done using various technologies such as React.js, Bootstrap e.t.c
+
+<img src="https://github.com/MasterIfeanyi/MasterIfeanyi/blob/main/Screenshot%20(4020).png" width="256" />
+
 ## Currently
 
 - 🌱 I’m currently learning different programming languages to increase my skills pool 
