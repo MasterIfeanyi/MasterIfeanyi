@@ -18,11 +18,12 @@ Here are some ideas to get you started:
 
 
 ## my name is Ifeanyi 🐼
-### Software Engineer
+
 I am Chima Ifeanyi, I am from Imo state, Nigeria.
+I am a software engineer.
 
 ## Skills and Experiences
-### 💻 Technologies
+#### 💻 Technologies
 React
 JavaScript
 PHP 
