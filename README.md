@@ -17,15 +17,14 @@ Here are some ideas to get you started:
 
 
 
-### Hi there 👋, my name is Ifeanyi
+### my name is Ifeanyi
 #### Software Engineer
 I am Chima Ifeanyi, I am from Imo state, Nigeria.
 
 Skills: REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning I am learning different programming languages to increase my skills pool 
-- 🤔 I’m looking for help with I am looking for a job 
+- 🌱 I’m currently learning different programming languages to increase my skills pool 
+- 🤔 I’m  looking for a job 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MasterIfeanyi)](https://github.com/anuraghazra/github-readme-stats)
 
