@@ -33,12 +33,11 @@ CSS
 ## Hooby Projects
 #### These projects were done using various technologies such as React.js, Bootstrap e.t.c
 
-
+<img src="https://github.com/MasterIfeanyi/MasterIfeanyi/blob/main/Screenshot%20(4020).png" width="256" />
 <img src="https://github.com/MasterIfeanyi/MasterIfeanyi/blob/main/Screenshot%20(4021).png" width="256" />
 <img src="https://github.com/MasterIfeanyi/MasterIfeanyi/blob/main/Screenshot%20(4022).png" width="256" />
+<img src="https://github.com/MasterIfeanyi/MasterIfeanyi/blob/main/Screenshot%20(4023).png" width="256" />
 
-![alt text](https://github.com/MasterIfeanyi/MasterIfeanyi/blob/main/Screenshot%20(4020).png "Track your expenses")
-![alt text](https://github.com/MasterIfeanyi/MasterIfeanyi/blob/main/Screenshot%20(4023).png "Fetch API")
 
 
 ## Currently
