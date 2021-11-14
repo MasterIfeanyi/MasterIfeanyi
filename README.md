@@ -19,18 +19,48 @@ Here are some ideas to get you started:
 
 ## Introduction
 
-I am Chima Ifeanyi, I am from Imo state, Nigeria.
-I am a software engineer.
+### I am Chima Ifeanyi, I am from Imo state, Nigeria.
+### I am a software engineer.
 
 ## Skills and Experiences
 #### 💻 Technologies
-React,
-JavaScript,
-PHP,
-HTML,
-CSS
 
-## Hooby Projects
+
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg"] React,
+      
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg"/>] JavaScript,
+
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/php.svg"/>]  PHP,
+
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg"/>] HTML,
+
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg" />] CSS
+
+<br/>
+
+## Currently
+
+- 🌱 I’m currently learning different programming languages to increase my skills pool 
+- 🤔 I’m  looking for a job.
+- 2022 Goals: I aim to contribute to more open source projects.
+- Fun fact: I love to play football and I am really good at it.
+
+<br/>
+
+### Connect with me: 
+
+[<img align="left" alt="linkedin.com/in/ifeanyi-thankgod-chima/" width="22px" 
+      src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[<img align="left" alt="https://github.com/MasterIfeanyi" width="22px" 
+      src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />][github]
+      
+[<img align="left" alt="https://stackoverflow.com/users/17171424/ifeanyi-chima" width="22px" 
+      src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" />][stackoverflow]
+
+<br/>
+
+## Hobby Projects
 #### These projects were done using various technologies such as React.js, Bootstrap e.t.c
 
 <img src="https://github.com/MasterIfeanyi/MasterIfeanyi/blob/main/Screenshot%20(4020).png" width="256" />
@@ -39,11 +69,12 @@ CSS
 <img src="https://github.com/MasterIfeanyi/MasterIfeanyi/blob/main/Screenshot%20(4023).png" width="256" />
 
 
+[twitter]: https://twitter.com/ifeanyiTchima
+[github]: https://github.com/MasterIfeanyi
+[linkedin]: https://www.linkedin.com/in/ifeanyi-thankgod-chima/
+[stackoverflow]: https://stackoverflow.com/users/17171424/ifeanyi-chima
 
-## Currently
 
-- 🌱 I’m currently learning different programming languages to increase my skills pool 
-- 🤔 I’m  looking for a job 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MasterIfeanyi)](https://github.com/anuraghazra/github-readme-stats)
 
