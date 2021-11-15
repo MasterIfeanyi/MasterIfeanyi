@@ -51,9 +51,9 @@ Here are some ideas to get you started:
 ## Currently
 
 - 🌱 I’m currently learning different programming languages to increase my skills pool 
-- 🤔 I’m  looking for a job.
-- 2022 Goals: I aim to contribute to more open source projects.
-- Fun fact: I love to play football and I am really good at it.
+- 💼 I’m  looking for a job.
+- 📗 2022 Goals: I aim to contribute to more open source projects.
+- ⚽ Fun fact: I love to play football and I am really good at it.
 
 <br/>
 
@@ -72,6 +72,7 @@ Here are some ideas to get you started:
 
 ## Hobby Projects
 #### These projects were done using various technologies such as React.js, Bootstrap e.t.c
+##### click on the image to see the project
 
 [<img src="https://github.com/MasterIfeanyi/MasterIfeanyi/blob/main/Screenshot%20(4020).png" width="256" />][Track_Expenses]
 [<img src="https://github.com/MasterIfeanyi/MasterIfeanyi/blob/main/Screenshot%20(4021).png" width="256" />][Temperature_converter]
