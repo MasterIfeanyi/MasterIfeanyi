@@ -77,6 +77,8 @@ Here are some ideas to get you started:
 [<img src="https://github.com/MasterIfeanyi/MasterIfeanyi/blob/main/Screenshot%20(4021).png" width="256" />][Temperature_converter]
 [<img src="https://github.com/MasterIfeanyi/MasterIfeanyi/blob/main/Screenshot%20(4022).png" width="256" />][Dog_Api]
 [<img src="https://github.com/MasterIfeanyi/MasterIfeanyi/blob/main/Screenshot%20(4023).png" width="256" />][Dad_Jokes]
+[<img src="https://github.com/MasterIfeanyi/MasterIfeanyi/blob/main/Screenshot%20(4032).png" width="256" />][Palindrome_Checker]
+
 
 
 [twitter]: https://twitter.com/ifeanyiTchima
@@ -89,6 +91,7 @@ Here are some ideas to get you started:
 [Dog_Api]: https://brave-allen-04cbc8.netlify.app/
 [Temperature_converter]: https://nostalgic-mccarthy-49260d.netlify.app/
 [Track_Expenses]: https://eager-newton-7bf333.netlify.app/
+[Palindrome_Checker]" https://musing-shirley-c5fe3a.netlify.app/
 
 
 
