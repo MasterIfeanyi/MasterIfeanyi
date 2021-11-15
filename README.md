@@ -91,7 +91,7 @@ Here are some ideas to get you started:
 [Dog_Api]: https://brave-allen-04cbc8.netlify.app/
 [Temperature_converter]: https://nostalgic-mccarthy-49260d.netlify.app/
 [Track_Expenses]: https://eager-newton-7bf333.netlify.app/
-[Palindrome_Checker]" https://musing-shirley-c5fe3a.netlify.app/
+[Palindrome_Checker]: https://musing-shirley-c5fe3a.netlify.app/
 
 
 
