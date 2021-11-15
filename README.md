@@ -44,6 +44,8 @@ Here are some ideas to get you started:
 
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/jquery.svg" />
 
+<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/netlify.svg" />
+
 <br/>
 
 ## Currently
@@ -71,16 +73,22 @@ Here are some ideas to get you started:
 ## Hobby Projects
 #### These projects were done using various technologies such as React.js, Bootstrap e.t.c
 
-<img src="https://github.com/MasterIfeanyi/MasterIfeanyi/blob/main/Screenshot%20(4020).png" width="256" />
-<img src="https://github.com/MasterIfeanyi/MasterIfeanyi/blob/main/Screenshot%20(4021).png" width="256" />
-<img src="https://github.com/MasterIfeanyi/MasterIfeanyi/blob/main/Screenshot%20(4022).png" width="256" />
-<img src="https://github.com/MasterIfeanyi/MasterIfeanyi/blob/main/Screenshot%20(4023).png" width="256" />
+[<img src="https://github.com/MasterIfeanyi/MasterIfeanyi/blob/main/Screenshot%20(4020).png" width="256" />][Track_Expenses]
+[<img src="https://github.com/MasterIfeanyi/MasterIfeanyi/blob/main/Screenshot%20(4021).png" width="256" />][Temperature_converter]
+[<img src="https://github.com/MasterIfeanyi/MasterIfeanyi/blob/main/Screenshot%20(4022).png" width="256" />][Dog_Api]
+[<img src="https://github.com/MasterIfeanyi/MasterIfeanyi/blob/main/Screenshot%20(4023).png" width="256" />][Dad_Jokes]
 
 
 [twitter]: https://twitter.com/ifeanyiTchima
 [github]: https://github.com/MasterIfeanyi
 [linkedin]: https://www.linkedin.com/in/ifeanyi-thankgod-chima/
 [stackoverflow]: https://stackoverflow.com/users/17171424/ifeanyi-chima
+
+<!-- projects -->
+[Dad_Jokes]: https://epic-archimedes-5565a9.netlify.app/
+[Dog_Api]: https://brave-allen-04cbc8.netlify.app/
+[Temperature_converter]: https://nostalgic-mccarthy-49260d.netlify.app/
+[Track_Expenses]: https://eager-newton-7bf333.netlify.app/
 
 
 
