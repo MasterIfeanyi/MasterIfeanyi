@@ -48,6 +48,8 @@ Here are some ideas to get you started:
 
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/sass.svg" />
 
+<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/tailwindcss.svg" />
+
 <br/>
 
 ## Currently
