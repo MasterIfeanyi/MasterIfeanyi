@@ -95,7 +95,7 @@ Here are some ideas to get you started:
 [Dad_Jokes]: https://epic-archimedes-5565a9.netlify.app/
 [Dog_Api]: https://ifeanyi-dog-api.netlify.app/
 [Temperature_converter]: https://ifeanyi-temp-converter.netlify.app/
-[Track_Expenses]: https://eager-newton-7bf333.netlify.app/
+[Track_Expenses]: https://ifeanyi-track-expense.netlify.app/
 [Palindrome_Checker]: https://ifeanyi-palindrome.netlify.app/
 [Note_Taker]: https://ifeanyi-notetaker.netlify.app/
 [Add_Todo]: https://ifeanyi-todo.netlify.app/
