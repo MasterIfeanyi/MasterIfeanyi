@@ -97,7 +97,7 @@ Here are some ideas to get you started:
 [Temperature_converter]: https://nostalgic-mccarthy-49260d.netlify.app/
 [Track_Expenses]: https://eager-newton-7bf333.netlify.app/
 [Palindrome_Checker]: https://ifeanyi-palindrome.netlify.app/
-[Note_Taker]: https://friendly-nobel-c3f132.netlify.app/
+[Note_Taker]: https://ifeanyi-notetaker.netlify.app/
 [Add_Todo]: https://ifeanyi-todo.netlify.app/
 [useWindowSize]: https://gracious-perlman-f41bc8.netlify.app/
 
