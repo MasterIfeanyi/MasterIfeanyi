@@ -92,7 +92,7 @@ Here are some ideas to get you started:
 [stackoverflow]: https://stackoverflow.com/users/17171424/ifeanyi-chima
 
 <!-- projects -->
-[Dad_Jokes]: https://epic-archimedes-5565a9.netlify.app/
+[Dad_Jokes]: https://ifeanyi-typescript-dadjoke.netlify.app/
 [Dog_Api]: https://ifeanyi-dog-api.netlify.app/
 [Temperature_converter]: https://ifeanyi-temp-converter.netlify.app/
 [Track_Expenses]: https://ifeanyi-track-expense.netlify.app/
