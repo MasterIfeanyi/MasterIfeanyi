@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 #### 💻 Technologies
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://www.logo.wine/a/logo/React_(web_framework)/React_(web_framework)-Logo.wine.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/354259/react.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg">
-  <img width="25px" align="left" alt="Shows a logo of React-dot-js (web framework)." src="https://www.logo.wine/a/logo/React_(web_framework)/React_(web_framework)-Logo.wine.svg">
+  <img width="25px" align="left" alt="Shows a logo of React-dot-js (web framework)." src="https://www.svgrepo.com/show/354259/react.svg">
 </picture>
 
 <picture>
@@ -44,9 +44,9 @@ Here are some ideas to get you started:
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://www.logo.wine/a/logo/MongoDB/MongoDB-Logo.wine.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/331488/mongodb.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mongodb.svg">
-  <img width="25px" align="left" alt="Shows a logo of MongoDB database." src="https://www.logo.wine/a/logo/MongoDB/MongoDB-Logo.wine.svg">
+  <img width="25px" align="left" alt="Shows a logo of MongoDB database." src="https://www.svgrepo.com/show/331488/mongodb.svg">
 </picture>
 
 <picture>
