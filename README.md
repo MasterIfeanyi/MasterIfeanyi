@@ -110,8 +110,22 @@ Here are some ideas to get you started:
 [<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/157006/linkedin.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
-  <img width="25px" align="left" alt="Shows a logo of Netlify" src="https://www.svgrepo.com/show/157006/linkedin.svg">
+  <img width="25px" align="left" alt="Shows a logo of Linkedin" src="https://www.svgrepo.com/show/157006/linkedin.svg">
 </picture>][linkedin]
+
+
+[<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/341847/github.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg">
+  <img width="25px" align="left" alt="Shows a logo of GitHub" src="https://www.svgrepo.com/show/341847/github.svg">
+</picture>][linkedin]
+
+[<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/354386/stackoverflow-icon.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg">
+  <img width="25px" align="left" alt="Shows a logo of GitHub" src="https://www.svgrepo.com/show/354386/stackoverflow-icon.svg">
+</picture>][linkedin]
+
 
 [<img align="left" alt="linkedin.com/in/ifeanyi-thankgod-chima/" width="22px" 
       src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
