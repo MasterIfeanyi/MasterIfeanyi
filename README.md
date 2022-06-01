@@ -28,13 +28,19 @@ Here are some ideas to get you started:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://www.logo.wine/a/logo/React_(web_framework)/React_(web_framework)-Logo.wine.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg">
-  <img width="30px" align="left" alt="Shows a logo of React (web framework)." src="https://www.logo.wine/a/logo/React_(web_framework)/React_(web_framework)-Logo.wine.svg">
+  <img width="35px" align="left" alt="Shows a logo of React-dot-js (web framework)." src="https://www.logo.wine/a/logo/React_(web_framework)/React_(web_framework)-Logo.wine.svg">
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://www.logo.wine/a/logo/Node.js/Node.js-Logo.wine.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/node-dot-js.svg">
-  <img width="30px" align="left" alt="Shows a logo of React (web framework)." src="https://www.logo.wine/a/logo/Node.js/Node.js-Logo.wine.svg">
+  <img width="35px" align="left" alt="Shows a logo of Node-dot-js (web framework)." src="https://www.logo.wine/a/logo/Node.js/Node.js-Logo.wine.svg">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.logo.wine/a/logo/MongoDB/MongoDB-Logo.wine.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mongodb.svg">
+  <img width="35px" align="left" alt="Shows a logo of MongoDB database." src="https://www.logo.wine/a/logo/MongoDB/MongoDB-Logo.wine.svg">
 </picture>
 
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg"/>
