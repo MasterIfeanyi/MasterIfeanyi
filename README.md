@@ -73,11 +73,17 @@ Here are some ideas to get you started:
   <img width="50px" align="left" alt="Shows a logo of SASS" src="https://www.svgrepo.com/show/374061/sass.svg">
 </picture>
 
-<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/heroku.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/303683/heroku-logo.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/heroku.svg">
+  <img width="50px" align="left" alt="Shows a logo of Heroku" src="https://www.svgrepo.com/show/303683/heroku-logo.svg">
+</picture>
+
+
+
+<img align="left" width="22px" src="" />
 
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg" />
-
-<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/jquery.svg" />
 
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/netlify.svg" />
 
