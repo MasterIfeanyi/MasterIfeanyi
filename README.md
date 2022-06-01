@@ -28,43 +28,43 @@ Here are some ideas to get you started:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://www.logo.wine/a/logo/React_(web_framework)/React_(web_framework)-Logo.wine.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg">
-  <img width="100px" align="left" alt="Shows a logo of React-dot-js (web framework)." src="https://www.logo.wine/a/logo/React_(web_framework)/React_(web_framework)-Logo.wine.svg">
+  <img width="25px" align="left" alt="Shows a logo of React-dot-js (web framework)." src="https://www.logo.wine/a/logo/React_(web_framework)/React_(web_framework)-Logo.wine.svg">
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://www.logo.wine/a/logo/Node.js/Node.js-Logo.wine.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/node-dot-js.svg">
-  <img width="100px" align="left" alt="Shows a logo of Node-dot-js (web framework)." src="https://www.logo.wine/a/logo/Node.js/Node.js-Logo.wine.svg">
+  <img width="25px" align="left" alt="Shows a logo of Node-dot-js (web framework)." src="https://www.logo.wine/a/logo/Node.js/Node.js-Logo.wine.svg">
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/353925/javascript.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg">
-  <img width="50px" align="left" alt="Shows a logo of Javascript." src="https://www.svgrepo.com/show/353925/javascript.svg">
+  <img width="25px" align="left" alt="Shows a logo of Javascript." src="https://www.svgrepo.com/show/353925/javascript.svg">
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://www.logo.wine/a/logo/MongoDB/MongoDB-Logo.wine.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mongodb.svg">
-  <img width="110px" align="left" alt="Shows a logo of MongoDB database." src="https://www.logo.wine/a/logo/MongoDB/MongoDB-Logo.wine.svg">
+  <img width="25px" align="left" alt="Shows a logo of MongoDB database." src="https://www.logo.wine/a/logo/MongoDB/MongoDB-Logo.wine.svg">
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/349402/html5.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg">
-  <img width="50px" align="left" alt="Shows a logo of HTML5." src="https://www.svgrepo.com/show/349402/html5.svg">
+  <img width="25px" align="left" alt="Shows a logo of HTML5." src="https://www.svgrepo.com/show/349402/html5.svg">
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/303481/css-3-logo.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg">
-  <img width="60px" align="left" alt="Shows a logo of CSS3" src="https://www.svgrepo.com/show/303481/css-3-logo.svg">
+  <img width="25px" align="left" alt="Shows a logo of CSS3" src="https://www.svgrepo.com/show/303481/css-3-logo.svg">
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/353498/bootstrap.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/bootstrap.svg">
-  <img width="50px" align="left" alt="Shows a logo of Bootstrap" src="https://www.svgrepo.com/show/353498/bootstrap.svg">
+  <img width="25px" align="left" alt="Shows a logo of Bootstrap" src="https://www.svgrepo.com/show/353498/bootstrap.svg">
 </picture>
 
 <picture>
@@ -76,18 +76,18 @@ Here are some ideas to get you started:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/303683/heroku-logo.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/heroku.svg">
-  <img width="50px" align="left" alt="Shows a logo of Heroku" src="https://www.svgrepo.com/show/303683/heroku-logo.svg">
+  <img width="25px" align="left" alt="Shows a logo of Heroku" src="https://www.svgrepo.com/show/303683/heroku-logo.svg">
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/354110/netlify.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/netlify.svg">
-  <img width="50px" align="left" alt="Shows a logo of Netlify" src="https://www.svgrepo.com/show/354110/netlify.svg">
+  <img width="25px" align="left" alt="Shows a logo of Netlify" src="https://www.svgrepo.com/show/354110/netlify.svg">
 </picture>
 
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg" />
 
-<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/tailwindcss.svg" />
+
 
 <br/>
 
