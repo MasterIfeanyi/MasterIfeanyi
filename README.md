@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/354310/sass.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/sass.svg">
-  <img width="50px" align="left" alt="Shows a logo of SASS" src="https://www.svgrepo.com/show/354310/sass.svg">
+  <img width="50px" height="22px" align="left" alt="Shows a logo of SASS" src="https://www.svgrepo.com/show/354310/sass.svg">
 </picture>
 
 <picture>
