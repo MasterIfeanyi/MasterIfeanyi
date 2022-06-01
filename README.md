@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/303481/css-3-logo.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg">
-  <img width="25px" align="left" alt="Shows a logo of CSS3" src="https://www.svgrepo.com/show/303481/css-3-logo.svg">
+  <img width="25px" height="25px" align="left" alt="Shows a logo of CSS3" src="https://www.svgrepo.com/show/303481/css-3-logo.svg">
 </picture>
 
 <picture>
