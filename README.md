@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/303481/css-3-logo.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg">
-  <img width="50px" align="left" alt="Shows a logo of CSS3" src="https://www.svgrepo.com/show/303481/css-3-logo.svg">
+  <img width="60px" align="left" alt="Shows a logo of CSS3" src="https://www.svgrepo.com/show/303481/css-3-logo.svg">
 </picture>
 
 <picture>
@@ -67,15 +67,11 @@ Here are some ideas to get you started:
   <img width="50px" align="left" alt="Shows a logo of Bootstrap" src="https://www.svgrepo.com/show/353498/bootstrap.svg">
 </picture>
 
-<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg"/>
-      
-<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg"/> 
-
-<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg"/>
-
-<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg" />
-
-<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/bootstrap.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/374061/sass.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/sass.svg">
+  <img width="50px" align="left" alt="Shows a logo of SASS" src="https://www.svgrepo.com/show/374061/sass.svg">
+</picture>
 
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/heroku.svg" />
 
@@ -84,8 +80,6 @@ Here are some ideas to get you started:
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/jquery.svg" />
 
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/netlify.svg" />
-
-<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/sass.svg" />
 
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/tailwindcss.svg" />
 
