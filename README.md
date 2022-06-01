@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://www.logo.wine/a/logo/React_(web_framework)/React_(web_framework)-Logo.wine.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg">
-  <img alt="Shows a logo of React (web framework)." src="https://www.logo.wine/a/logo/React_(web_framework)/React_(web_framework)-Logo.wine.svg">
+  <img width="22px" align="left" alt="Shows a logo of React (web framework)." src="https://www.logo.wine/a/logo/React_(web_framework)/React_(web_framework)-Logo.wine.svg">
 </picture>
 
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg"/>
