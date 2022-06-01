@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/353925/javascript.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg">
-  <img width="100px" align="left" alt="Shows a logo of Javascript." src="https://www.svgrepo.com/show/353925/javascript.svg">
+  <img width="50px" align="left" alt="Shows a logo of Javascript." src="https://www.svgrepo.com/show/353925/javascript.svg">
 </picture>
 
 <picture>
