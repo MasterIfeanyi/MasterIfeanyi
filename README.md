@@ -89,7 +89,7 @@ Here are some ideas to get you started:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/303251/mysql-logo.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg">
-  <img width="25px" align="left" alt="Shows a logo of Netlify" src="https://www.svgrepo.com/show/303251/mysql-logo.svg">
+  <img width="25px" height="25px" align="left" alt="Shows a logo of Netlify" src="https://www.svgrepo.com/show/303251/mysql-logo.svg">
 </picture>
 
 
