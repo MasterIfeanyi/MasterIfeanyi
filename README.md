@@ -107,6 +107,12 @@ Here are some ideas to get you started:
 
 ### Connect with me: 
 
+[<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/157006/linkedin.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
+  <img width="25px" align="left" alt="Shows a logo of Netlify" src="https://www.svgrepo.com/show/157006/linkedin.svg">
+</picture>][linkedin]
+
 [<img align="left" alt="linkedin.com/in/ifeanyi-thankgod-chima/" width="22px" 
       src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
