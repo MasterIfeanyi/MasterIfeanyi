@@ -165,7 +165,7 @@ Here are some ideas to get you started:
 [Palindrome_Checker]: https://ifeanyi-palindrome.netlify.app/
 [Note_Taker]: https://ifeanyi-notetaker.netlify.app/
 [Add_Todo]: https://ifeanyi-todo.netlify.app/
-[useWindowSize]: https://gracious-perlman-f41bc8.netlify.app/
+[useWindowSize]: https://ifeanyi-usewindowsize.netlify.app/
 
 
 
