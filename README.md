@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://www.logo.wine/a/logo/MongoDB/MongoDB-Logo.wine.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mongodb.svg">
-  <img width="100px" align="left" alt="Shows a logo of MongoDB database." src="https://www.logo.wine/a/logo/MongoDB/MongoDB-Logo.wine.svg">
+  <img width="150px" align="left" alt="Shows a logo of MongoDB database." src="https://www.logo.wine/a/logo/MongoDB/MongoDB-Logo.wine.svg">
 </picture>
 
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg"/>
