@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/303658/nodejs-1-logo.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/354119/nodejs-icon.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/node-dot-js.svg">
-  <img width="25px" align="left" alt="Shows a logo of Node-dot-js (web framework)." src="https://www.svgrepo.com/show/303658/nodejs-1-logo.svg">
+  <img width="25px" align="left" alt="Shows a logo of Node-dot-js (web framework)." src="https://www.svgrepo.com/show/354119/nodejs-icon.svg">
 </picture>
 
 <picture>
