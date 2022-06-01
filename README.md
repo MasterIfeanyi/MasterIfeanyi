@@ -52,13 +52,13 @@ Here are some ideas to get you started:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/349402/html5.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg">
-  <img width="100px" align="left" alt="Shows a logo of HTML5." src="https://www.svgrepo.com/show/349402/html5.svg">
+  <img width="50px" align="left" alt="Shows a logo of HTML5." src="https://www.svgrepo.com/show/349402/html5.svg">
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/303481/css-3-logo.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg">
-  <img width="100px" align="left" alt="Shows a logo of CSS3" src="https://www.svgrepo.com/show/303481/css-3-logo.svg">
+  <img width="50px" align="left" alt="Shows a logo of CSS3" src="https://www.svgrepo.com/show/303481/css-3-logo.svg">
 </picture>
 
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg"/>
