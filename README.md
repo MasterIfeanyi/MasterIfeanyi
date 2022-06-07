@@ -139,7 +139,7 @@ Here are some ideas to get you started:
 <br/>
 
 ## Hobby Projects
-#### These projects were done using various technologies such as React.js, Bootstrap e.t.c
+#### These projects were created using various technologies such as React.js, Bootstrap e.t.c
 ##### click on the image to see the project
 
 [<img src="https://github.com/MasterIfeanyi/MasterIfeanyi/blob/main/Screenshot%20(4020).png" width="256" />][Track_Expenses]
