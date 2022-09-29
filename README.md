@@ -1,5 +1,7 @@
 # Hi there 👋
 
+<a href="https://www.buymeacoffee.com/ifeanyichima" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 <!--
 **MasterIfeanyi/MasterIfeanyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -125,6 +127,8 @@ Here are some ideas to get you started:
   <img width="25px" align="left" alt="Shows a logo of Stackoverflow" src="https://www.svgrepo.com/show/354386/stackoverflow-icon.svg">
 </picture>][stackoverflow]
 
+
+<a href="https://www.buymeacoffee.com/ifeanyichima" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 <!-- [<img align="left" alt="linkedin.com/in/ifeanyi-thankgod-chima/" width="22px" 
       src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
