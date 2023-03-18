@@ -109,6 +109,10 @@ Here are some ideas to get you started:
 
 [![HTML](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/ifeanyi-thankgod-chima)
 
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/masterifeanyi)
+
+[![Stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17171424/neil)
+
 [<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/157006/linkedin.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
