@@ -100,7 +100,7 @@ Here are some ideas to get you started:
 ## Currently
 
 - 🌱 I’m learning several technologies to increase my skills pool 
-- 📗 2022 Goals: I aim to contribute to more open source projects.
+- 📗 2023 Goals: I aim to contribute to more open source projects.
 - ⚽ Fun fact: I love to play football and I am really good at it.
 
 <br/>
