@@ -107,42 +107,9 @@ Here are some ideas to get you started:
 
 ### Connect with me: 
 
-[![HTML](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/ifeanyi-thankgod-chima)
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/masterifeanyi)
-
-[![Stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17171424/neil)
-
-[<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/157006/linkedin.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
-  <img width="25px" align="left" alt="Shows a logo of Linkedin" src="https://www.svgrepo.com/show/157006/linkedin.svg">
-</picture>][linkedin]
+[![HTML](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/ifeanyi-thankgod-chima)&nbsp;[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/masterifeanyi)&nbsp;[![Stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17171424/neil)&nbsp;<a href="https://www.buymeacoffee.com/ifeanyichima" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 
-[<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/341847/github.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg">
-  <img width="25px" align="left" alt="Shows a logo of GitHub" src="https://www.svgrepo.com/show/341847/github.svg">
-</picture>][github]
-
-[<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/354386/stackoverflow-icon.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg">
-  <img width="25px" align="left" alt="Shows a logo of Stackoverflow" src="https://www.svgrepo.com/show/354386/stackoverflow-icon.svg">
-</picture>][stackoverflow]
-
-
-<a href="https://www.buymeacoffee.com/ifeanyichima" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
-<!-- [<img align="left" alt="linkedin.com/in/ifeanyi-thankgod-chima/" width="22px" 
-      src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[<img align="left" alt="https://github.com/MasterIfeanyi" width="22px" 
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />][github]
-      
-[<img align="left" alt="https://stackoverflow.com/users/17171424/ifeanyi-chima" width="22px" 
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" />][stackoverflow] -->
 
 <br/>
 
