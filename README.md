@@ -178,6 +178,8 @@ Here are some ideas to get you started:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ifeanyiTchima) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/ifeanyi-chima)   -->
 
+[![Shows a logo of Linkedin](https://www.svgrepo.com/show/157006/linkedin.svg)](https://www.linkedin.com/in/ifeanyi-thankgod-chima/)
+
 [<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/157006/linkedin.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
