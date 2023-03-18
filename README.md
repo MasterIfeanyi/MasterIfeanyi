@@ -93,6 +93,11 @@ Here are some ideas to get you started:
   <img width="25px" height="25px" align="left" alt="Shows a logo of MYSQL" src="https://www.svgrepo.com/show/355133/mysql.svg">
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/374146/typescript-official.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/typescript.svg">
+  <img width="25px" height="25px" align="left" alt="Shows a logo of Typescript" src="https://www.svgrepo.com/show/355133/typescript.svg">
+</picture>
 
 
 <br/>
