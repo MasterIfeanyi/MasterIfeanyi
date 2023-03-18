@@ -186,11 +186,14 @@ Here are some ideas to get you started:
   <img width="25px" align="left" alt="Shows a logo of Linkedin" src="https://www.svgrepo.com/show/157006/linkedin.svg">
 </picture>](https://www.linkedin.com/in/ifeanyi-thankgod-chima/) 
 
-<p>
+<div style="display: flex; align-items="center" justify-items="center">
   <a href=“https://www.linkedin.com/in/ifeanyi-thankgod-chima/”>
     <img src=“https://www.svgrepo.com/show/157006/linkedin.svg” alt=“homepage” />
   </a>
-</p>
+   <a href=“https://www.linkedin.com/in/ifeanyi-thankgod-chima/”>
+    <img src=“https://www.svgrepo.com/show/157006/linkedin.svg” alt=“homepage” />
+  </a>                                                                 
+</div>
 
 [<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/341847/github.svg">
