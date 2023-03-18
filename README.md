@@ -146,35 +146,8 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MasterIfeanyi)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MasterIfeanyi) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ifeanyi-thankgod-chima/) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ifeanyiTchima) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/ifeanyi-chima)   -->
 
-[![Shows a logo of Linkedin](https://www.svgrepo.com/show/157006/linkedin.svg)](https://www.linkedin.com/in/ifeanyi-thankgod-chima/)
 
-[<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/157006/linkedin.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
-  <img width="25px" align="left" alt="Shows a logo of Linkedin" src="https://www.svgrepo.com/show/157006/linkedin.svg">
-</picture>](https://www.linkedin.com/in/ifeanyi-thankgod-chima/) 
+[![HTML](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/ifeanyi-thankgod-chima)&nbsp;[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/masterifeanyi)&nbsp;[![Stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17171424/neil)&nbsp;<a href="https://www.buymeacoffee.com/ifeanyichima" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
- [![Linkedin](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/ifeanyi-thankgod-chima/)
 
-[<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/341847/github.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg">
-  <img width="25px" align="left" alt="Shows a logo of GitHub" src="https://www.svgrepo.com/show/341847/github.svg">
-</picture>](https://github.com/MasterIfeanyi) 
-
-[<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/20626/twitter.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg">
-  <img width="25px" align="left" alt="Shows a logo of GitHub" src="https://www.svgrepo.com/show/20626/twitter.svg">
-</picture>](https://twitter.com/ifeanyiTchima) 
-
-[<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/354386/stackoverflow-icon.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg">
-  <img width="25px" align="left" alt="Shows a logo of Stackoverflow" src="https://www.svgrepo.com/show/354386/stackoverflow-icon.svg">
-</picture>](https://stackoverflow.com/users/ifeanyi-chima) 
