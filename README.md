@@ -81,6 +81,26 @@ Here are some ideas to get you started:
   <img width="25px" height="25px" align="left" alt="Shows a logo of Typescript" src="https://www.svgrepo.com/show/355133/typescript.svg">
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/303683/heroku-logo.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/heroku.svg">
+  <img width="25px" align="left" alt="Shows a logo of Heroku" src="https://www.svgrepo.com/show/303683/heroku-logo.svg">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/354110/netlify.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/netlify.svg">
+  <img width="25px" align="left" alt="Shows a logo of Netlify" src="https://www.svgrepo.com/show/354110/netlify.svg">
+</picture>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/355133/mysql.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg">
+  <img width="25px" height="25px" align="left" alt="Shows a logo of MYSQL" src="https://www.svgrepo.com/show/355133/mysql.svg">
+</picture>
+
+
 
 <br/>
 
