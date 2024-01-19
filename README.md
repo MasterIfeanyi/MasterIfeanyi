@@ -106,9 +106,8 @@ Here are some ideas to get you started:
 
 ## Currently
 
-- 🌱 I’m learning several technologies to increase my skills pool 
-- 📗 2023 Goals: I aim to contribute to more open source projects.
-- ⚽ Fun fact: I love to play football and I am really good at it.
+- 🌱 Creating value as a software development instructor at the foremost learining institution in Nigeria (NIIT)
+
 
 <br/>
 
