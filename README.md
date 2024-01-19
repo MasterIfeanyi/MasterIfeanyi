@@ -106,7 +106,7 @@ Here are some ideas to get you started:
 
 ## Currently
 
-- 🌱 Creating value as a software development instructor at the foremost learining institution in Nigeria (NIIT)
+- 🌱 Creating value as a software development instructor at the foremost learning institution in Nigeria (NIIT)
 
 
 <br/>
