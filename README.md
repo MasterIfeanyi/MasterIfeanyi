@@ -105,7 +105,7 @@ Here are some ideas to get you started:
 
 ## Currently
 
-- 🌱 Creating value as a software development instructor at the foremost learning institution in Nigeria (NIIT)
+- 🌱 Teaching React, Javascript, MongoDB, Figma(UI/UX) at N.I.I.T
 
 
 <br/>
@@ -134,7 +134,5 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MasterIfeanyi)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-[![HTML](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/ifeanyi-thankgod-chima)&nbsp;[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/masterifeanyi)&nbsp;[![Stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17171424/neil)&nbsp;
 
 
