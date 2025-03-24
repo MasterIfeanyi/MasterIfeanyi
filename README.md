@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## Introduction
 
-### I am Chima Ifeanyi. I am a software engineer.
+### I am a software engineer.
 
 ## Skills and Experiences
 #### 💻 Technologies
