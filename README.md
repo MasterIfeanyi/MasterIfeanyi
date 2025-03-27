@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## Introduction
 
-### I am a software engineer.
+### I am a software engineer and a UI/UX designer
 
 ## Skills and Experiences
 #### 💻 Technologies
