@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 ### I am a software engineer and a UI/UX designer
 
 ## Skills and Experiences
+
+
 #### 💻 Technologies
 
 <picture>
@@ -116,7 +118,14 @@ Here are some ideas to get you started:
 
 <br/>
 
+### 🛠️ Tech Stack  
 
+| Frontend | Backend | Database | DevOps / Tools |
+|----------|---------|----------|----------------|
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) |![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white) |
+| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | 
 
 
 
@@ -124,13 +133,6 @@ Here are some ideas to get you started:
 [github]: https://github.com/MasterIfeanyi
 [linkedin]: https://www.linkedin.com/in/ifeanyi-thankgod-chima/
 [stackoverflow]: https://stackoverflow.com/users/17171424/ifeanyi-chima
-
-
-
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MasterIfeanyi)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 
