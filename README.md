@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ## Skills and Experiences
 
 
-#### 💻 Technologies
+### 💻 Technologies
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/354259/react.svg">
@@ -110,11 +110,9 @@ Here are some ideas to get you started:
 
 <br/>
 
-### Connect with me: 
+## Connect with me: 
 
 [![HTML](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ifeanyi-thankgod-chima)&nbsp;[![GitHub](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/@ifeanyiTchima)&nbsp;[![Stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17171424/neil)&nbsp;[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chimaifeanyi29@gmail.com)&nbsp;
-
-<br/>
 
 [twitter]: https://twitter.com/ifeanyiTchima
 [github]: https://github.com/MasterIfeanyi
