@@ -20,10 +20,7 @@ Here are some ideas to get you started:
 
 ### I am a software engineer and a UI/UX designer
 
-## Skills and Experiences
-
-
-### 💻 Technologies
+## 💻 Technologies
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/354259/react.svg">
