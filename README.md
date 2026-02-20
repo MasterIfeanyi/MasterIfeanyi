@@ -103,7 +103,7 @@ Here are some ideas to get you started:
 ## Employment History
 
 - 🌱 Teaching React, Javascript, MongoDB, Figma(UI/UX) at N.I.I.T (2023 - 2025)
-- ✈️ Building Africas largest migration platform at Blumefy
+- ✈️ Building Africas' largest migration platform at Blumefy
 
 <br/>
 
