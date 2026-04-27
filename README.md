@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
-### I am a Software engineer and a UI/UX designer
+### I am a Software Engineer and a UI/UX designer
 
 ## 💻 Technologies
 
