@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
-### I am a software engineer and a UI/UX designer
+### I am a Software engineer and a UI/UX designer
 
 ## 💻 Technologies
 
@@ -97,13 +97,8 @@ Here are some ideas to get you started:
 </picture>
 
 
-
 <br/>
 
-## Employment History
-
-- 🌱 Teaching React, Javascript, MongoDB, Figma(UI/UX) at N.I.I.T (2023 - 2025)
-- ✈️ Building Africas' largest migration platform at Blumefy
 
 <br/>
 
