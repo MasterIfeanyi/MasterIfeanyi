@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
-### I am a web designer and a web developer
+### I am a web developer
 
 ## 💻 Technologies
 
