@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
 
 
-### I am a web developer
+### About me
+I am a software developer with 6 years of experience in web development, specializing in user-facing web solutions. I contribute to open-source technologies such as Mozilla, Wikimedia, Docusaraus. 
 
 ## 💻 Technologies
 
