@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-### About me
 Just a chill guy defending the open web — contributing to open-source technologies such as Mozilla, Wikimedia, Docusaraus. 
 
 ## 💻 Technologies
