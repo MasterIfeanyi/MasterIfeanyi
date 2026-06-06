@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 ### About me
-I am a web developer with 6 years of experience, specializing in user-facing web solutions. I contribute to open-source technologies such as Mozilla, Wikimedia, Docusaraus. 
+Just a chill guy defending the open web — contributing to open-source technologies such as Mozilla, Wikimedia, Docusaraus. 
 
 ## 💻 Technologies
 
