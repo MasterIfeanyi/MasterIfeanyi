@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Just a chill guy defending the open web — contributing to open-source technologies such as Mozilla, Wikimedia, Docusaraus. 
+Just a chill guy — contributing to open-source technologies such as Mozilla, Wikimedia, Docusaraus, usememos. 
 
 ## 💻 Technologies
 
