@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Just a chill guy — contributing to open-source technologies in the Mozilla ecosystem (Firefox, MDN web docs).
+Just a chill guy — contributing to open-source technologies (Firefox, MDN web docs, Wikinewsie, WikiEduDashboard, Docusaurus).
 
 ## 💻 Technologies
 
