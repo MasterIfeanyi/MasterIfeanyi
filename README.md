@@ -15,8 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Open-source contributor
+Contributing to open-source technologies [Firefox](https://ifeanyi-firefox.netlify.app), [MDN Web Docs](https://ifeanyi-mdn-webdocs.netlify.app), [Wikinewsie](https://ifeanyi-wikimedia.netlify.app), [WikiEduDashboard](https://ifeanyi-wikimedia.netlify.app), Docusaurus, Apache Cordova.
 
-Contributing to open-source technologies ([Firefox](https://ifeanyi-firefox.netlify.app), [MDN Web Docs](https://ifeanyi-mdn-webdocs.netlify.app), [Wikinewsie](https://ifeanyi-wikimedia.netlify.app), [WikiEduDashboard](https://ifeanyi-wikimedia.netlify.app), Docusaurus, Apache Cordova).
+### Technical writer
+Published technical articles across [Dev.to](https://dev.to/ifeanyichima), [Medium](https://medium.com/@ifeanyiTchima), and [Hashnode](https://hashnode.com/@ifeanyichima), breaking down web development and open-source topics for a developer audience. 
+
 
 ## 💻 Technologies
 
