@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Contributing to open-source technologies (Firefox, MDN web docs, Wikinewsie, WikiEduDashboard, Docusaurus, Apache Cordova).
+Contributing to open-source technologies ([Firefox](https://ifeanyi-firefox.netlify.app), (MDN web docs)[https://ifeanyi-mdn-webdocs.netlify.app/], (Wikinewsie)[https://ifeanyi-wikimedia.netlify.app/], (WikiEduDashboard)[https://ifeanyi-wikimedia.netlify.app/], Docusaurus, Apache Cordova).
 
 ## 💻 Technologies
 
